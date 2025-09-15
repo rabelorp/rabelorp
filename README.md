@@ -1,50 +1,40 @@
-Objetivo:
-Atuar na área da tecnologia da informação com análise e desenvolvimento de sistemas com Levantamento de Requisitos, Elaboração de Documentação Use Case e Diagramas UML, Modelagem de Banco de Dados, Desenvolvimento de Aplicações Backend com Node e Frontend com React, Angular e Vue.
+Engenheiro de Software com mais de 20 anos de experiência, com domínio completo em análise, modelagem, desenvolvimento, testes, publicação e manutenção de sistemas. Atuo com levantamento de requisitos, documentação técnica (casos de uso e diagramas UML), e desenvolvimento de aplicações backend e frontend escaláveis, performáticas e seguras. Possuo domínio em soluções DevOps e metodologias ágeis.
 
-Hard Skills:
 Backend:
-- Linguagens: PHP(Laravel, Cake e CodeIgniter), Python(Django) e Node.js(Express e Nest.js);
-- Banco de dados: MySQL, PostgreSQL, MongoDB e DynamoDB;
+- Node.js (NestJS e Express);
+- Bancos de dados: MySQL, PostgreSQL, MongoDB, Redis e DynamoDB;
+- Mensageria: RabbitMQ;
 
 Frontend:
-- Linguagens: HTML5, CSS3, JavaScript, React(Next), Angular e Vue;
-- Design de interfaces: UX/UI
-- Ferramentas: Figma e Adobe xD;
-- Softwares: Adobe(Ps, Ai, Pr e Ae).
+- React (Next.js) e Angular;
+- Experiência em UX/UI com Figma e Atomic Design.
 
-Mobile:
-- React Native (estudando).
+Testes:
+- Testes automatizados com Jest (unitários e de integração);
+- Testes end-to-end com Cypress;
+- Integração dos testes em pipelines de CI/CD.
 
 DevOps:
-- Pipeline CI/CD: GitHub Actions e Azure;
-- Infraestrutura: AWS(EC2, Lambda, S3, API Gateway, Route 53, RDS, SQS, SNS, Athena e CloudWatch);
-- Containers: Docker;
-- Controle de versão: Git/GitFlow;
-- Metodologias ágeis: Scrum e Kanban.
+- CI/CD com GitHub Actions, Jenkins e GitLab;
+- Infraestrutura em núvem (AWS): EC2, Lambda, S3, RDS, SQS, SNS, API Gateway, Route 53, Athena, CloudFormation, CloudWatch e Amplify;
+- Containers com Docker e Docker Swarm;
+- Orquestração com Kubernetes;
+- Observabilidade com SigNoz, Elastic Stack, Prometheus e OpenTelemetry;
+- Provisionamento de infraestrutura com Terraform.
 
-Estudando:
-- Pipeline CI/CD: Jenkins;
-- Orquestrador: Kubernetes;
-- Mensageria: RabbitMQ;
-- Banco de dados: Redis e ElasticSearch.
+Metodologias e Arquitetura:
+- Metodologias ágeis: Scrum;
+- Versionamento: Git, GitFlow e GitHub Flow;
+- Boas práticas: SOLID e Clean Code;
+- Arquiteturas: Hexagonal e Clean Architecture;
+- Padrões de projeto: Singleton, Decorator, Proxy, Observer, Adapter e Factory Method.
 
 Soft Skills:
-- Comunicação: facilidade de expressão;
-- Pensamento crítico: analise do problema, soluções e decisões;
-- Liderança: capacidade de liderar equipe, resolver conflitos e tomar decisões;
-- Atitude positiva: bom relacionamento interpessoal;
-- Trabalho em equipe: habilidade em trabalhar com pessoas de diferentes áreas;
-- Ética profissional: boa relação com prazos e normas;
-- Inteligência emocional: reagir de modo apropriado;
-- Gestão de tempo: planejamento e flexibilidade com imprevistos.
+- Boa comunicação, liderança técnica e pensamento crítico;
+- Proatividade, inteligência emocional e foco em resultados;
+- Forte atuação em equipe, ética profissional e adaptação a ambientes de alta pressão.
 
-Home office:
-- Internet: fibra óptica de alta velocidade com backup;
-- Desktop: Ryzen 3200G com 32gb de memória, 4tb de hd com backup local e em nuvem;
-- Notebook: Intel i3 com 16gb de memória, 1tb de hd com backup local e em nuvem;
-- Nobreak: internet e computadores.
-
-Contratação:
-- PJ/CLT
+Modalidades de Contratação:
+- Disponível para oportunidades como PJ ou CLT.
 
 [Fale comigo!]( https://www.linkedin.com/in/robson-rabelo/?locale=pt_BR )
